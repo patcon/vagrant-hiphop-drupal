@@ -1,8 +1,2 @@
-```
-git clone https://github.com/patcon/vagrant-hiphop-drupal.git
-cd vagrant-hiphop-drupal
-gem install bundler
-bundle install
-bundle exec librarian-chef install
-bundle exec vagrant up
-```
+This project has moved to:
+https://github.com/myplanet-experimental/vagrant-hiphop-drupal
